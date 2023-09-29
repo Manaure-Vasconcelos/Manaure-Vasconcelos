@@ -9,20 +9,27 @@ OBS: Estou aberto a ajudas nos projetos, se você tem algo a acrecentar, fique a
 
 ##
 
-<div style="display: inline_block" >
+<div style="" align="center" justify-content="space-between">
+  <a href="https://github.com/Manaure-Vasconcelos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manaure-Vasconcelos&show_icons=true&theme=dracula&include_all_commits=true">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manaure-Vasconcelos&layout=compact&langs_count=16&theme=dracula">
+</div><br>
+
+<div style="display: flex" >
   
-- Liguagens atuais.
 <div>
+  - Liguagens atuais. <br><br>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-- Interesses.
 <div>
+  - Interesses. <br><br>
   <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mysql" height="40" width="90"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Java" height="40" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Java" height="40" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Java" height="40" width="90" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 </div>
