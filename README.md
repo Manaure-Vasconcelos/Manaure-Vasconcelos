@@ -8,12 +8,6 @@
 
 OBS: Estou aberto a ajudas nos projetos, se você tem algo a acrecentar, fique a vontade, dicas são sempre bem vindas.
 
-__Estou prestes a lançar um [projeto pessoal](https://github.com/Manaure-Vasconcelos/CalculoCusto--Ficha.Tecnica.git). Se alguém quiser contribuir com conhecimento para aprimorar o código, sinta-se livre para solicitar um pull request.__<br>
-Melhorias:
-- Front end de modo geral, layout, responsividade.
-- Codigo, otimização, semantico, estrutural. <bR>
-
-
 ##
 
 <div style="" align="center" justify-content="space-between">
