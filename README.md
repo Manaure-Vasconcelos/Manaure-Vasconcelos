@@ -1,6 +1,6 @@
  👋 Ola, me chamo Manaure, atualmente estou realizando projetos de estudos e um projeto pessoal.
 - Tenho interesse em me desenvolver na programação. Estou fazendo uma transição de carreira desde o mês 04/2023 e cada vez mais me apaixono pela área.
-- Estou procurando focar inicialmente em JavaScript e React. Acredito que é uma boa base para começar.
+- Estou procurando focar inicialmente em JavaScript e React. Ja tenho uma boa base no JS e com isso estou migrando para o TypeScript e cada vez mais pretendo me aprofundar na stack.
 - Vou desenvolver projetos de iniciante e avançado conforme o tempo passar.
 - Todos os projetos serão comentados, principalmente os conceitos que recém aprendi. Espero ajudar quem tenha duvidas com isso, além de ser uma forma de aprendizado.
 - A medida da minha evolução vou simplificar os projetos antigos, afim de atingir uma melhor performace e um código mais clean. Além de me aventurar aumentando o nível de desafio dos projetos.
