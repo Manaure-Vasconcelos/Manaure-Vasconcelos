@@ -40,6 +40,7 @@ OBS: Estou aberto a ajudas nos projetos, se você tem algo a acrecentar, fique a
   
   - Tecnologias que tenho interesse. <br>
  <img align="center" alt="Ts" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+ <img align="center" alt="Ts" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
  <img align="center" alt="Ts" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
  <img align="center" alt="Ts" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
  <img align="center" alt="Ts" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
