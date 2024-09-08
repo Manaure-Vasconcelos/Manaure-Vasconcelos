@@ -6,7 +6,7 @@
 - A medida da minha evolução vou simplificar os projetos antigos, afim de atingir uma melhor performace e um código mais clean. Além de me aventurar aumentando o nível de desafio dos projetos.
 - Futuramente pretendo aprender outras tecnologias e sempre voltado para o back end, que é a area que mais me fascina.
 
-##Contribua com o Projeto: https://github.com/Manaure-Vasconcelos/finantracker
+##Contribua com o Projeto: https://github.com/Manaure-Vasconcelos/finantracker <br/>
 Estou desenvolvendo um app web para controle de gastos voltado para quem mora fora do brasil e lida com conversões de cambio frequentemente. <br/>
 Atualmente desenvolvendo apenas a interfaces usando inspirações e interfaces prontas, pois meu foco é voltado a API que dará vida ao app.
 
