@@ -17,7 +17,7 @@
 <div style="display: flex" >
 
 <div>
- <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manaure-Vasconcelos&layout=compact&langs_count=16&theme=dracula">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manaure-Vasconcelos&layout=compact&langs_count=16&theme=dracula&cache_seconds=10">
 </div><br>
  
    - Tecnologias basicas. <br>
