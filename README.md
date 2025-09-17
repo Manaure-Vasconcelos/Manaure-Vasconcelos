@@ -16,10 +16,6 @@
 
 <div style="display: flex" >
 
-<div>
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manaure-Vasconcelos&layout=compact&langs_count=16&theme=dracula&cache_seconds=10">
-  <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark">
-</div><br>
  
    - Tecnologias basicas. <br>
  <img align="center" alt="Ts" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
